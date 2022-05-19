@@ -1,6 +1,6 @@
 # Sobre mim
 
-Bom, eu gosto de jogar.
+# Bom, eu gosto de jogar.
 
 ![bitmoji](https://user-images.githubusercontent.com/105867080/169323056-09955d05-f33c-4eab-ace5-f2cdfccca8fa.png)
 
