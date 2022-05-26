@@ -1,10 +1,11 @@
 # Sobre mim
 
-# Bom, eu gosto de jogar.
+- Interesse: jogos.
+- Meu usuário é: @pedrofeitosaa
 
 ![bitmoji](https://user-images.githubusercontent.com/105867080/169323056-09955d05-f33c-4eab-ace5-f2cdfccca8fa.png)
 
-
+## Contatos
 <a href="https://www.youtube.com/c/PanelasFF" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/pedrofeitosa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedro.feitosa@escola.pr.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
